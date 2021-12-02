@@ -1,0 +1,18 @@
+{
+  "name": "Tarea 5 - primer intento",
+  "version": "1.0.0",
+  "description": "Tarea 5- servicio web",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "author": "Virginia Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "mongodb": "^4.2.1",
+    "nodemon": "^2.0.15"
+  }
+}
